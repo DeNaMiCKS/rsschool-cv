@@ -1,9 +1,148 @@
-.block{
-    width: 100px;
-    height: 100px;
-    border-bottom:8px #0ba891 solid;
-    border-top:5px #fff dashed;
-    border-right: 10px #9565e8 dotted;
-    border-left:3px #c25d7d solid;
-    background-color: #c41515;  
+body{ background-color: bisque;}
+.top{
+    display: flex;
+}
+.down{
+    margin-top:96% ;
+    padding-top:2.5%;
+    padding-bottom: 2.5%;
+    display: flex;
+}
+.contacs-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 50%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.header{    
+padding-bottom: 80%;
+position:absolute;
+  right:0;
+  left:0;
+background-color: rgb(239, 239, 239);
+}
+.summary-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.btn-up{
+    color: black;
+    text-decoration: none;  
+}
+.skills-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.code-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.projects-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.education-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.english-top{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.ima{width: 30%;
+    height: 30%;
+    border-radius: 50%;
+}
+
+.image-ava{
+    margin-left: 25% ;
+}
+.ima-ava{
+    padding-top: 7%;
+    margin-left: 10%;
+}
+.text-ava{
+    margin-top: 1%;
+    margin-left: 15%;
+    font-family: "Baskervville SC", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+  color: rgb(31, 28, 24);
+}
+.line{
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 0.33%;
+    width: 30%;
+    margin-left: 21%;
+    margin-top: 0.5%;
+}
+.first-line{
+    display: flex;
+    padding-right: 15%;
+    margin-left: 15%;
+
+}
+.contacs{
+    display:block;
+    margin-left: 5%;
+    margin-top: 7%;
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+.texts{
+    font-family: "Josefin Sans", sans-serif;
+    color:black;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 3%;
+    
+}
+.contacti{
+    display: flex;
+}
+.imcont{
+    width: 15%;
+    height: 15%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.line2{
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 0.33%;
+    width: 100%;
 }
